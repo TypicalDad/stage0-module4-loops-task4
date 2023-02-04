@@ -1,5 +1,5 @@
 public class FixMe {
-    public void main() {
+    public void timur() {
         for (int i = 0; i < 100; i++) {
             if (i % 2 == 0) {
                 System.out.println(i);
