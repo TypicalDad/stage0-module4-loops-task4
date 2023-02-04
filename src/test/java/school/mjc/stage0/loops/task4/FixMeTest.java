@@ -16,7 +16,7 @@ class FixMeTest extends BaseIOTest {
 
     @Test
     void mainPrintsAsExpected() {
-        FixMe.main(null);
+        FixMe.timur(null);
 
         assertOutEquals("0\n" +
                 "2\n" +
